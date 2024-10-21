@@ -11,6 +11,7 @@
 		72561CCF2CC0F1A400001FCD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72561CCE2CC0F1A400001FCD /* ContentView.swift */; };
 		72561CD12CC0F1A500001FCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72561CD02CC0F1A500001FCD /* Assets.xcassets */; };
 		72561CD42CC0F1A500001FCD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72561CD32CC0F1A500001FCD /* Preview Assets.xcassets */; };
+		72561CDB2CC0F1CE00001FCD /* Expences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72561CDA2CC0F1CE00001FCD /* Expences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		72561CCE2CC0F1A400001FCD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		72561CD02CC0F1A500001FCD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72561CD32CC0F1A500001FCD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		72561CDA2CC0F1CE00001FCD /* Expences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expences.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				72561CCC2CC0F1A400001FCD /* SwiftDataExampleApp.swift */,
 				72561CCE2CC0F1A400001FCD /* ContentView.swift */,
+				72561CDA2CC0F1CE00001FCD /* Expences.swift */,
 				72561CD02CC0F1A500001FCD /* Assets.xcassets */,
 				72561CD22CC0F1A500001FCD /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72561CDB2CC0F1CE00001FCD /* Expences.swift in Sources */,
 				72561CCF2CC0F1A400001FCD /* ContentView.swift in Sources */,
 				72561CCD2CC0F1A400001FCD /* SwiftDataExampleApp.swift in Sources */,
 			);
